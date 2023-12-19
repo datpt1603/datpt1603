@@ -7,3 +7,4 @@
 ## GitHub Streak Stats
 
 [![DatPT1603's GitHub stats](https://github-readme-stats.vercel.app/api?username=datpt1603)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datpt1603&hide=html)
